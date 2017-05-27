@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/feco/Gits/Calendar/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/feco/.android/build-cache/e4d9cdbf3a261869f0afa3cdc95a40b8fde0dbd1/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/feco/Gits/Calendar/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/feco/.android/build-cache/e4d9cdbf3a261869f0afa3cdc95a40b8fde0dbd1/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/feco/Gits/Calendar/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/feco/.android/build-cache/e4d9cdbf3a261869f0afa3cdc95a40b8fde0dbd1/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/feco/Gits/Calendar/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/feco/.android/build-cache/e4d9cdbf3a261869f0afa3cdc95a40b8fde0dbd1/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/feco/Gits/Calendar/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/feco/.android/build-cache/e4d9cdbf3a261869f0afa3cdc95a40b8fde0dbd1/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/feco/Gits/Calendar/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/feco/.android/build-cache/e4d9cdbf3a261869f0afa3cdc95a40b8fde0dbd1/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

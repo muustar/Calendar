@@ -1,0 +1,7 @@
+#Sat May 27 19:53:13 CEST 2017
+base.0=/home/feco/Gits/Calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bb0e07d33f84e21a3c0712c3c175f0d655498f16
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/feco/Gits/Calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_47fda9b03200dff059d8c06e8fe8fabfa8bd34ac/classes.dex
+base.1=/home/feco/Gits/Calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_47fda9b03200dff059d8c06e8fe8fabfa8bd34ac
+file.0=/home/feco/Gits/Calendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bb0e07d33f84e21a3c0712c3c175f0d655498f16/classes.dex
